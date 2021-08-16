@@ -21,13 +21,3 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="" /></a></p><br><br>
 
-<br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ufinator&show_icons=true&theme=dark&locale=en&layout=compact" alt="SimbaAddons" /></p>
-
-<br>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ufinator&show_icons=true&theme=dark&locale=en" alt="SimbaAddons" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ufinator&theme=dark" alt="SimbaAddons" /></p>
-
