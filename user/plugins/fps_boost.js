@@ -26,10 +26,33 @@ function(fps_boost_minimal)
   set @Minecraft_shadow_lightning = 1
 }
 
+function(fps_boost_optifine)
+{
+  
+  set @Minecraft_system_rendering = 10%
+    
+    get(@User_version);
+  
+  if @User_version = 1_8_8
+    import optifine_latest.js = get(function(optifine_1.8.8))
+    end;
+                                    
+  if @User_version = 1_12
+    import optifine_latest.js = get(function(optifine_1.12))
+    end;
+  
+  if @User_version = 1_17
+    import optifine_latest.js = get(function(optifine_1.17))
+    end;
+}
+
+
 function(fps_boost_maximal)
 {
   
   set @Minecraft_system_rendering = 10%
+    
+    get(function(fps_boost_minimal))
     
     get(@User_version);
   
