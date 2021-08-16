@@ -23,11 +23,11 @@
 
 <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ufinator&show_icons=true&theme=dark&locale=en&layout=compact" alt="" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ufinator&show_icons=true&theme=dark&locale=en&layout=compact" alt="SimbaAddons" /></p>
 
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ufinator&show_icons=true&theme=dark&locale=en" alt="" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ufinator&show_icons=true&theme=dark&locale=en" alt="SimbaAddons" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ufinator&theme=dark" alt="" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ufinator&theme=dark" alt="SimbaAddons" /></p>
 
