@@ -1,0 +1,7 @@
+[LOGSYSTEM] - Nativclient (v1)
+=========================
+=
+00:12:33 - [LOGSYSTEM] - Cannot start client current error (404)
+00:12:34 - [LOGSYSTEM] - Java-File not found
+00:12:40 - [LOGSYSTEM] - Console execute(!"stop")
+00:12:42 - [LOGSYSTEM] - File stopped.
