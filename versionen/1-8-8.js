@@ -1,4 +1,4 @@
-system_1_8_8
+client
 {
   sourceCompatibility = MinecraftVersion.VERSION_1_8_8
   targetCompatibility = MinecraftVersion.VERSION_1_8_8
