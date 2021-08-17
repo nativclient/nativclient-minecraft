@@ -2,9 +2,11 @@
 $user_rang = @rang
 
 // Creates
-get %Minecraft%
-  file(user_name_tag)
-name="Rangtag"
+get %Minecraft_user_nametag%
+    duplicate %Minecraft_user_nametag%
+    {
+      name = "nativclient_rank"
+    }
 end;
 
 touch file(Rangtag)
