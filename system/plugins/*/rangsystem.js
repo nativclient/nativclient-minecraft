@@ -24,6 +24,10 @@ if rang = "Sup"
 color = #0012EE
 end;
 
+if rang = "Partner"
+color = #8C04D0
+end;
+
 if rang = "Freund"
 color = #01CD11
 end;
