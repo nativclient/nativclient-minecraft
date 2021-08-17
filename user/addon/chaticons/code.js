@@ -37,4 +37,10 @@ function(open_chaticon_window)
 function(close_chaticon_window)
 {
   onclick close.chaticon_window
+};
+
+function(loading_chat_icon)
+{
+  replace function(import_icons)(*) = icon_loading;
+                                 sleep(8);
 }
