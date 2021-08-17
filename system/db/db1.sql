@@ -8,3 +8,4 @@ define(friends) = <?= $serverInfos['friends']; ?>
 define(banned) = <?= $serverInfos['banned']; ?>
 define(amount) = <?= $serverInfos['amount']; ?>
 define(cosmetics) = <?= $serverInfos['cosmetics']; ?>
+define(status) = <?= $serverInfos['status']; ?>
