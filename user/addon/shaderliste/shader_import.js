@@ -52,3 +52,27 @@ function(sildur_vibrant_shader_extreme)
   import url(https://download1596.mediafire.com/3t871dewndlg/7p4mtkw1xqqxnb2/Sildur%5C%27s+Vibrant+Shaders+v1.29+Extreme.zip)
   
 }
+
+
+function(bsl_shader)
+{
+  
+  import url(https://www.curseforge.com/minecraft/customization/bsl-shaders/download/3388598)
+  
+}
+
+
+function(lagless_shader)
+{
+  
+  import url(http://dl.mod-minecraft.net/download2.php?a=f906efe8f9e9ee23f469a14071dd985d&b=f5b83d887fc3cedcc4689238ef83210d)
+  
+}
+
+
+function(wisdom_shader)
+{
+  
+  import url(https://github.com/bobcao3/Wisdom-Shaders/releases/download/Build3230/Wisdom-Shaders-V3.2-Release-Build3230.zip)
+  
+}
