@@ -77,3 +77,18 @@ end;
 if $user local db.tables `sildur_vibrant_shader_extreme-1_17` = true
    function(sildur_virbrant_shader_extreme)
 end;
+
+
+if $user local db.tables `bsl_shader-1_17_1` = true
+   function(bsl_shader)
+end;
+
+
+if $user local db.tables `lagless_shader-1_8` = true
+   function(lagless_shader)
+end;
+
+
+if $user local db.tables `wisdom_shader-1_12` = true
+   function(wisdom_shader)
+end;
