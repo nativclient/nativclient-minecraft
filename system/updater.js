@@ -4,5 +4,5 @@ onexecute bath_path/installer.js
 end;
 
 if execute = need_update
-   get.files from url(https://github.com/nativclient/nativclient-minecraft/)
+   load.files from url(https://github.com/nativclient/nativclient-minecraft/)
 end;
