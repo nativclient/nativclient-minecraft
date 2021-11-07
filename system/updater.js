@@ -1,5 +1,5 @@
 onexecute bath_path/installer.js
-           wait(5)
+           sleep(5)
            get execute from installer.js
 end;
 
