@@ -13,6 +13,7 @@ if catch.error(*)
                 name = console.message
                }
                insert into object.console
+               end;
 end;
 
 create.new(button)
