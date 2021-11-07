@@ -6,7 +6,7 @@
 
 // !!!old!!!
 
-if installer.exe['execute'] = true
+if installer.exe globalfunction(execute) = true
    function(overwrite)
 end
 
