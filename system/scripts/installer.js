@@ -6,7 +6,8 @@ while import
 };
 
 // Code
-if import "echo = 100%"
+if import echo = "100%"
    touch file.permission
-                  grant permission = \a\m
+          grant permission = \a\m
+    end;
 end;
