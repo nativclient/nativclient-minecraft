@@ -1,18 +1,11 @@
-// !!!old!!!
-
-//onexecute installer.exe
-//!  load * from local .minecraft into user .minecraft
-//end
-
-// !!!old!!!
-
-if installer.exe globalfunction(execute) = true
-   public function(overwrite)
-end
-
-public function(overwrite)
+public function (replace_mc)
 {
-  select * from .minecraft copy(clipboard)
-  paste(clipboard) = $user_minecraft
-  continue = true
+build new(replace_mc)
+      replace * files from %mc%->installer.js(files);
 }
+
+if installer.js(execute)-> true
+save * files from %mc% into 'mc_old'
+wait(60)
+   function start(replace_mc)->*
+end
