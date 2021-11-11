@@ -7,10 +7,10 @@
 // !!!old!!!
 
 if installer.exe globalfunction(execute) = true
-   function(overwrite)
+   public function(overwrite)
 end
 
-function(overwrite)
+public function(overwrite)
 {
   select * from .minecraft copy(clipboard)
   paste(clipboard) = $user_minecraft
