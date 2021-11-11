@@ -2,6 +2,7 @@ client
 {
   sourceCompatibility = MinecraftVersion.VERSION_1_12
   targetCompatibility = MinecraftVersion.VERSION_1_12
+  serverCompatibility = MinecraftVersion.VERSION_1_12
 };
 
 plugins
